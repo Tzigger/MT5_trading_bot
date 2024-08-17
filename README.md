@@ -1,2 +1,2 @@
-# MT5_trading_bot
-This Python project integrates MetaTrader5 with GPT-4 to generate automated trading signals. It analyzes OHLC and tick data to provide real-time BUY/SELL recommendations, including entry, stop loss, and take profit levels.
+#MetaTrader5 Trading Advisor with GPT-4 Integration
+This Python project integrates MetaTrader5 with OpenAI's GPT-4 to provide automated trading recommendations. By analyzing dynamic OHLC and tick data from MT5, the system uses advanced trading strategies to generate precise BUY/SELL signals, including entry points, stop loss, and take profit levels. The system is designed to continuously adapt to the latest market data, ensuring that recommendations are based on the most current information
