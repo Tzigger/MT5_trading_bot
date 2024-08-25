@@ -13,3 +13,6 @@ The MetaTrader5 Trading Bot with GPT-4 is designed to assist traders by automati
 - **Advanced AI Integration**: Utilizes OpenAI's GPT-4 to analyze market data and apply trading strategies, enhancing the decision-making process with AI-driven insights.
 - **Customizable Strategy**: The bot can be tailored to specific trading strategies as outlined in a provided strategy document, allowing users to align the bot's recommendations with their own trading philosophy.
 - **Robust and Scalable**: Designed to handle a wide range of trading scenarios, from high-frequency trading to long-term investment strategies.
+
+### To Do
+- **Integrate with Rust for faster runtime**
